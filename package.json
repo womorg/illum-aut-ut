@@ -1,10 +1,10 @@
 {
   "name": "@womorg/illum-aut-ut",
-  "version": "10.39.351",
+  "version": "10.40.351",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/accusantium-commodi-officia": "^1.0.0",
